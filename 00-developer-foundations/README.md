@@ -1,106 +1,72 @@
 # Developer Foundations
 
-Before learning HTML, CSS, JavaScript, React, Node.js, or any framework, a developer must first understand the tools that make software development possible.
+Before learning HTML, CSS, JavaScript, React, Node.js, databases, or APIs, a developer must first understand the tools and environment used to build software.
 
-This module introduces the foundations of the modern development environment.
-
-By the end of this module, you will understand:
-
-* What programming is
-* How computers work at a high level
-* Operating systems
-* Files, folders, and paths
-* Installing software safely
-* Visual Studio Code
-* Terminals and command-line interfaces
-* PowerShell
-* Command Prompt
-* Git Bash
-* Node.js and npm
-* Git and GitHub
-* The modern developer workflow
-
----
-
-## Why This Module Matters
-
-Many beginners attempt to learn programming without understanding the tools they use every day.
-
-As a result, they become blocked by simple problems such as:
-
-* Installing software
-* Navigating folders
-* Running commands
-* Managing projects
-* Using Git
-* Publishing code
-
-This module solves that problem first.
-
-The goal is to build a strong foundation before writing application code.
-
----
+This module provides the foundation required for modern software development.
 
 ## Learning Outcomes
 
 After completing this module, you should be able to:
 
-* Navigate your computer confidently
-* Use a terminal effectively
-* Install development tools
-* Create and organize projects
-* Use Git for version control
-* Push code to GitHub
-* Understand the typical workflow of a modern software developer
-
----
+- Explain what programming is
+- Understand how computers work
+- Explain hardware and software
+- Understand operating systems
+- Navigate files and folders
+- Understand paths
+- Install developer tools safely
+- Use VS Code
+- Understand Git and GitHub
+- Use PowerShell and Git Bash
+- Navigate directories using terminal commands
 
 ## Lessons
 
-1. What Is Programming?
-2. Computers and Operating Systems
-3. Files, Folders, and Paths
-4. Installing Software Safely
-5. Visual Studio Code Setup
-6. Terminal Basics
-7. PowerShell
-8. Command Prompt
-9. Git Bash
-10. Node.js and npm
-11. Git and GitHub
-12. Modern Developer Workflow
+### 01. What Is Programming?
 
----
+Learn what programming is, how computers execute instructions, and how developers use software to solve problems.
 
-## Module Deliverables
+### 02. Computers and Operating Systems
 
-* Lesson Notes
-* Cheatsheets
-* Practical Exercises
-* Solutions
-* Quizzes
-* Module Assessment
-* Additional Resources
+Learn about hardware, software, CPUs, RAM, storage, operating systems, processes, permissions, and environment variables.
 
----
+### 03. Files, Folders and Paths
+
+Learn how computers organize information and how developers navigate project structures.
+
+### 04. Development Tools and Installation
+
+Learn about VS Code, Git, GitHub, Node.js, browsers, terminals, and safe software installation practices.
+
+### 05. Terminal, PowerShell and Git Bash
+
+Learn how to navigate directories, create files and folders, and use the terminal effectively.
+
+## Module Assets
+
+This module contains:
+
+- Lesson Notes
+- Lesson Quizzes
+- Lesson Answers
+- Lesson Cheatsheets
+- Module Assessment
+- Module Cheatsheet
+- Fun Facts
+- Recommended Resources
 
 ## Prerequisites
 
 None.
 
-This module assumes no prior technical experience.
+This module assumes no previous programming experience.
 
----
+## Estimated Completion Time
 
-## Recommended Software
+4–8 hours depending on pace and practical exercises.
 
-* Visual Studio Code
-* Git
-* Node.js
-* A modern web browser
+## Next Module
 
-Official download links are provided throughout the lessons.
+Internet & Web Fundamentals
 
----
-
-Welcome to the first step of your Full Stack Developer journey.
+You will learn how the internet works, how browsers communicate with servers, how DNS works, and what happens when a website loads.
