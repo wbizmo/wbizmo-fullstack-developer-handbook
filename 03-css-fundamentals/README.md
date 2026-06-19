@@ -1,48 +1,118 @@
 # CSS Fundamentals
 
-CSS means Cascading Style Sheets.
+## Overview
 
-CSS is used to style HTML and control how webpages look across different screen sizes.
+CSS controls the appearance, layout, spacing, responsiveness, and visual presentation of web applications.
+
+This module teaches how to transform raw HTML into professional user interfaces.
+
+## Why This Module Matters
+
+Good software can fail if users struggle to use it.
+
+CSS creates usability, clarity, responsiveness, and professional presentation.
 
 ## Learning Outcomes
 
-After completing this module, you should be able to:
+By the end of this module you will be able to:
 
-- Explain what CSS is
-- Connect CSS to HTML
-- Use selectors
-- Understand cascade, specificity, and inheritance
-- Understand the box model
-- Control spacing and sizing
-- Use colors and typography
-- Build layouts with Flexbox and Grid
-- Create responsive designs
-
-## Lessons
-
-### 01. Introduction To CSS
-
-Learn what CSS is, why it exists, and how to apply it to HTML.
-
-### 02. Selectors, Specificity and Cascade
-
-Learn how CSS chooses which styles apply.
-
-### 03. Box Model, Spacing and Sizing
-
-Learn margin, border, padding, content, width, height, and box sizing.
-
-### 04. Colors, Typography and Units
-
-Learn how to control color, text, fonts, and measurement units.
-
-### 05. Flexbox, Grid and Responsive Design
-
-Learn modern CSS layout and responsive design foundations.
+- Style web pages
+- Understand selectors
+- Use the box model
+- Create layouts
+- Use Flexbox
+- Use CSS Grid
+- Build responsive interfaces
+- Create animations
+- Build professional UI systems
 
 ## Prerequisites
 
-HTML Fundamentals
+- HTML Fundamentals
+
+## Lessons
+
+### Lesson 01
+Introduction to CSS
+
+### Lesson 02
+Selectors and Specificity
+
+### Lesson 03
+Colors, Typography and Units
+
+### Lesson 04
+Box Model
+
+### Lesson 05
+Flexbox
+
+### Lesson 06
+CSS Grid
+
+### Lesson 07
+Responsive Design
+
+### Lesson 08
+Transitions and Animations
+
+### Lesson 09
+Modern CSS Techniques
+
+### Lesson 10
+CSS Best Practices
+
+## Exercises & Challenges
+
+Build:
+
+- Landing page
+- Pricing section
+- Dashboard layout
+- Responsive navbar
+- Responsive card system
+
+## Module Project
+
+Build a fully responsive marketing website.
+
+## Skills Gained
+
+- Layout systems
+- Responsive design
+- Visual hierarchy
+- UI development
+- Modern CSS workflows
+
+## Real World Applications
+
+- SaaS interfaces
+- Admin dashboards
+- CMS themes
+- Product websites
+
+## Portfolio Connections
+
+Used heavily in:
+
+- Cashflowr
+- Covenant
+- Pulse CMS
+- Portfolio Website
+- Origin WP
+
+## Completion Checklist
+
+- [ ] Complete lessons
+- [ ] Complete quizzes
+- [ ] Complete exercises
+- [ ] Complete project
+
+## Additional Resources
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+https://css-tricks.com
 
 ## Next Module
 

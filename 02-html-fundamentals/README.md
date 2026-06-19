@@ -1,62 +1,121 @@
 # HTML Fundamentals
 
-HTML means HyperText Markup Language.
+## Overview
 
-It is the standard language used to structure content on the web.
+HTML (HyperText Markup Language) is the foundation of every website.
 
-Before styling with CSS or adding behavior with JavaScript, a developer must first understand how to create meaningful HTML documents.
+This module teaches how web pages are structured, how browsers interpret HTML, and how to create accessible, semantic, and maintainable web content.
+
+## Why This Module Matters
+
+Every frontend framework, CMS, website, dashboard, SaaS application, landing page, and web platform ultimately renders HTML.
+
+Strong HTML skills make CSS easier, JavaScript easier, accessibility easier, SEO better, and frontend development more professional.
 
 ## Learning Outcomes
 
-After completing this module, you should be able to:
+By the end of this module you will be able to:
 
-- Explain what HTML is
-- Create a valid HTML document
-- Use headings, paragraphs, links, images, lists, tables, and forms
-- Understand semantic HTML
-- Structure webpages correctly
-- Understand basic accessibility and SEO principles
-
-## Lessons
-
-### 01. Introduction To HTML
-
-Learn what HTML is, why it exists, and how browsers read HTML.
-
-### 02. HTML Document Structure
-
-Learn the required structure of a valid HTML document.
-
-### 03. Text, Links and Images
-
-Learn how to add readable content, navigation, and media.
-
-### 04. Lists, Tables and Layout Structure
-
-Learn how to organize content clearly.
-
-### 05. Forms, Semantic HTML and Accessibility
-
-Learn how users submit data and how to write meaningful, accessible HTML.
-
-## Module Assets
-
-- Lesson Notes
-- Lesson Quizzes
-- Lesson Answers
-- Lesson Cheatsheets
-- Module Assessment
-- Module Cheatsheet
-- Resources
-- Fun Facts
+- Understand HTML document structure
+- Create semantic web pages
+- Build forms
+- Create navigation systems
+- Work with media
+- Create tables
+- Improve accessibility
+- Understand SEO fundamentals
+- Structure content professionally
 
 ## Prerequisites
 
-Internet & Web Fundamentals
+- Internet & Web Fundamentals
 
-## Estimated Completion Time
+## Lessons
 
-8–12 hours
+### Lesson 01
+HTML Introduction
+
+### Lesson 02
+Document Structure
+
+### Lesson 03
+Headings, Paragraphs and Text
+
+### Lesson 04
+Links and Navigation
+
+### Lesson 05
+Images and Media
+
+### Lesson 06
+Lists and Tables
+
+### Lesson 07
+Forms and Inputs
+
+### Lesson 08
+Semantic HTML
+
+### Lesson 09
+Accessibility Basics
+
+### Lesson 10
+SEO-Friendly HTML
+
+## Exercises & Challenges
+
+Students will create:
+
+- Personal profile page
+- Blog page
+- Product page
+- Contact form
+- Multi-section landing page
+
+## Module Project
+
+Build a complete multi-page personal website using only HTML.
+
+## Skills Gained
+
+- Semantic HTML
+- Accessibility
+- Forms
+- Content structure
+- SEO fundamentals
+- Browser rendering concepts
+
+## Real World Applications
+
+- Websites
+- Landing pages
+- CMS themes
+- SaaS products
+- Documentation sites
+
+## Portfolio Connections
+
+Used in:
+
+- Cashflowr
+- Covenant
+- Pulse CMS
+- Origin WP
+- PulseWP
+
+## Completion Checklist
+
+- [ ] Complete all lessons
+- [ ] Complete quizzes
+- [ ] Complete exercises
+- [ ] Complete module project
+- [ ] Pass module assessment
+
+## Additional Resources
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+https://html.spec.whatwg.org
 
 ## Next Module
 

@@ -1,50 +1,121 @@
 # JavaScript Basics
 
+## Overview
+
 JavaScript is the programming language of the web.
 
-HTML gives structure. CSS gives style. JavaScript adds behavior, logic, interactivity, and dynamic functionality.
+This module teaches programming fundamentals that power frontend and backend applications.
+
+## Why This Module Matters
+
+JavaScript is used in:
+
+- Browsers
+- Node.js
+- APIs
+- CLIs
+- Desktop apps
+- Mobile apps
+
+It is one of the most important programming languages in modern software development.
 
 ## Learning Outcomes
 
-After completing this module, you should be able to:
+By the end of this module you will be able to:
 
-- Explain what JavaScript is
-- Run JavaScript in the browser
+- Write JavaScript programs
 - Use variables
-- Understand data types
-- Use operators
-- Write conditional logic
+- Use conditions
 - Use loops
-- Work with arrays and objects
 - Create functions
-- Understand basic browser events
-- Understand basic DOM manipulation
-
-## Lessons
-
-### 01. Introduction To JavaScript
-
-Learn what JavaScript is, where it runs, and how it connects to HTML.
-
-### 02. Variables, Data Types and Operators
-
-Learn how to store values and perform basic operations.
-
-### 03. Conditionals and Comparisons
-
-Learn how programs make decisions.
-
-### 04. Loops, Arrays and Objects
-
-Learn how to repeat actions and organize data.
-
-### 05. Functions, Events and DOM Basics
-
-Learn how to create reusable logic and interact with webpages.
+- Work with arrays
+- Work with objects
+- Debug programs
 
 ## Prerequisites
 
-HTML Fundamentals and CSS Fundamentals
+- HTML Fundamentals
+- CSS Fundamentals
+
+## Lessons
+
+### Lesson 01
+Introduction to JavaScript
+
+### Lesson 02
+Variables and Data Types
+
+### Lesson 03
+Operators
+
+### Lesson 04
+Conditionals
+
+### Lesson 05
+Loops
+
+### Lesson 06
+Functions
+
+### Lesson 07
+Arrays
+
+### Lesson 08
+Objects
+
+### Lesson 09
+Error Handling
+
+### Lesson 10
+Debugging Basics
+
+## Exercises & Challenges
+
+Build:
+
+- Calculator
+- Grade checker
+- Number guessing game
+- Student manager
+- Expense tracker logic
+
+## Module Project
+
+Build a browser-based productivity tool using vanilla JavaScript.
+
+## Skills Gained
+
+- Programming fundamentals
+- Problem solving
+- Debugging
+- Application logic
+
+## Real World Applications
+
+Every modern JavaScript application depends on these concepts.
+
+## Portfolio Connections
+
+Used in:
+
+- Cashflowr
+- Portfolio Website
+- LaunchStack CLI
+- SyncGrid API
+- VaultBox API
+
+## Completion Checklist
+
+- [ ] Complete lessons
+- [ ] Complete quizzes
+- [ ] Complete exercises
+- [ ] Complete project
+
+## Additional Resources
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+https://javascript.info
 
 ## Next Module
 
