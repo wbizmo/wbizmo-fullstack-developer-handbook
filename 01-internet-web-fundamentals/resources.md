@@ -1,57 +1,59 @@
 # Internet & Web Fundamentals Resources
 
-## Networking
+## MDN Web Docs
 
-Cloudflare Learning Center
+How does the internet work?
 
-https://www.cloudflare.com/learning/
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work
 
-Cisco Networking Academy
+What is a domain name?
 
-https://www.netacad.com
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name
 
-## Internet Infrastructure
+HTTP Overview
 
-Internet Society
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
-https://www.internetsociety.org
+HTTP Status Codes
 
-## DNS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
-Cloudflare DNS Learning Center
+## Cloudflare Learning Center
+
+What is the Internet?
+
+https://www.cloudflare.com/learning/network-layer/what-is-the-internet/
+
+What is a packet?
+
+https://www.cloudflare.com/learning/network-layer/what-is-a-packet/
+
+What is DNS?
 
 https://www.cloudflare.com/learning/dns/what-is-dns/
 
-## HTTP
+What is HTTPS?
 
-MDN HTTP Documentation
+https://www.cloudflare.com/learning/ssl/what-is-https/
 
-https://developer.mozilla.org/en-US/docs/Web/HTTP
+## Web Performance
 
-## HTTPS
+web.dev
 
-Let's Encrypt
+https://web.dev
 
-https://letsencrypt.org
+## Browser Developer Tools
 
-## Web Fundamentals
+Chrome DevTools Documentation
 
-MDN Web Docs
+https://developer.chrome.com/docs/devtools
 
-https://developer.mozilla.org
+Firefox Developer Tools
 
-## Hosting
+https://firefox-source-docs.mozilla.org/devtools-user/
 
-DigitalOcean Community
+## Recommended Next Step
 
-https://www.digitalocean.com/community
+After completing this module, continue to HTML Fundamentals.
 
-## Recommended Reading
-
-How DNS Works
-
-How HTTP Works
-
-How Browsers Work
-
-The Client-Server Model
+HTML will make more sense now that you understand browsers, servers, requests, responses, and how websites load.

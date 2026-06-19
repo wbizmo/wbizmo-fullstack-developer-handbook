@@ -2,26 +2,26 @@
 
 ## Fun Fact 1
 
-The internet carries billions of requests every day.
+The first website is still online at:
+
+https://info.cern.ch
 
 ## Fun Fact 2
 
-Most international internet traffic travels through undersea fiber optic cables.
+DNS is often called the phonebook of the internet because it maps names to addresses.
 
 ## Fun Fact 3
 
-Google receives billions of searches every day.
+Many websites load dozens or hundreds of files before the page is fully visible.
 
 ## Fun Fact 4
 
-DNS is often called the phonebook of the internet.
+Undersea fiber optic cables carry huge amounts of international internet traffic.
 
 ## Fun Fact 5
 
-A webpage may require dozens or even hundreds of separate HTTP requests to load completely.
+The web is only one part of the internet. Email, games, file transfers, APIs, and messaging apps also use the internet.
 
 ## Fun Fact 6
 
-The first website is still accessible today.
-
-https://info.cern.ch
+A slow website is often not slow because of HTML. It is often slow because of images, JavaScript, fonts, third-party scripts, or server response time.
