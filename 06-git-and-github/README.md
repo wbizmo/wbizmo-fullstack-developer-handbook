@@ -99,7 +99,7 @@ Every software project uses version control.
 
 Used in:
 
-- Every repository in your portfolio
+- Every repository in my portfolio
 - Argus
 - NOMMO
 - SyncGrid
